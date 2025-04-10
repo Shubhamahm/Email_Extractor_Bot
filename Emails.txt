@@ -1,0 +1,8 @@
+ID	Email Body
+1	Hello, I'm interested in your services. Please contact me at john.doe@example.com. Thank you!
+2	Hi team, here’s my email for updates: sarah_connor99@mail.com. Looking forward to hearing from you.
+3	Could you please send the brochure to amit.shah@company.in and cc it to manager@company.in?
+4	My contact is raj123@gmail.com. Kindly reach out.
+5	Our new client’s email is client.services@enterprise.org. Please add them to the mailing list.
+6	No email address here, just checking if the bot can skip this.
+7	Please forward all invoices to billing@startup.io and queries to help@startup.io.
